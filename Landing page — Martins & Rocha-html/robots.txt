@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modelos-de-lp.vercel.app/sitemap.xml
